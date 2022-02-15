@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @igormsc
+- 👀 I’m interested in Go and Kotlin software development
+- 💞️ I do like have fun on leetcode/igromsc and hackerrank/igormsc
+- 📫 How to reach me g.dev/igormsc or t.me/igormsc
