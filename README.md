@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Igor @igormsc
-- 👀 I’m interested in Go and Kotlin software development
-- 💞️ I do like to have fun on leetcode/igromsc
+- 👀 Go, Kotlin, Rust developer.
+- 🤖 I have interest in robotics, AI and IoT.
 - 📫 How to reach me g.dev/igormsc or t.me/igormsc or linkedin.com/in/igormsc
