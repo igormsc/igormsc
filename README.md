@@ -1,3 +1,4 @@
 - 👋 Hi, I’m Igor @igormsc
 - 🤖 I have interest in robotics, AI and IoT.
+- mi mrilrero .i mi naltrapi lo saivli logji pe la'esai xunre cadyspisa .i mi se ciska lo samso'i nodji .i mi drani lo zukte pe lo sacmau zanfri
 - 📫 How to reach me g.dev/igormsc or t.me/igormsc or linkedin.com/in/igormsc
