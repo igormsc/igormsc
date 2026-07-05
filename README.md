@@ -1,3 +1,1 @@
 Focused on the design and implementation of software that controls physical-world processes. This involves applying systems programming, real-time computing, and distributed backend principles to build robust solutions for automation, robotics, IoT, and connected industrial systems (IIoT/Industry 4.0).
-
-How to reach me g.dev/igormsc or t.me/igormsc or linkedin.com/in/igormsc
